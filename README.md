@@ -96,6 +96,9 @@ Finder で確認すると、darknetフォルダ内のdataフォルダには何�
 ```
 ./darknet detect cfg/yolov3.cfg yolov3.weights data/dog.jpg
 ```
+使用するのはこちら
+![dog](https://user-images.githubusercontent.com/68985919/91527629-13a5cb00-e941-11ea-8d92-2112c46fe9e2.jpg)
+
 
 計算が開始され、結果が以下のように表示される。
 
@@ -115,4 +118,5 @@ dog: 100%
 ```
 open predictions.jpg  
 ```
+
 
