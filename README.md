@@ -53,7 +53,7 @@ YOLOv3のダウンロード方法は、２通り
 
 ### ブラウザでダウンロードする場合
 
-こちら](https://github.com/pjreddie/darknet)からzipファイルをダウンロード＋解凍。
+[こちら](https://github.com/pjreddie/darknet)からzipファイルをダウンロード＋解凍。
 
 フォルダの名前は「darknet-master」となっているが、中身は「darknet」と同じ。
 
